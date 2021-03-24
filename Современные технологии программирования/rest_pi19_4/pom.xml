@@ -8,11 +8,11 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rest_pi19_4</groupId>
-	<artifactId>rest_pi19_4</artifactId>
+	<groupId>com.rest_pi_19_4</groupId>
+	<artifactId>rest_pi_19_4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest_pi19_4</name>
-	<description>rest_pi19_4</description>
+	<name>rest_pi_19_4</name>
+	<description>rest_pi_19_4</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
